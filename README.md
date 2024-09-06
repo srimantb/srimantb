@@ -1,19 +1,25 @@
-# Hi there, I'm Srimant 👋
+# Hi there, Hack the world! 👾
 
 <img  align="right" width ="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"> <!-- Optional: Add a cool terminal or personal header image -->
 
 ```bash
-$ echo "Welcome to Srimant's GitHub Profile!"
+~$ echo "Hello, World! Let's code some exploits."
 
-$ whoami
-Srimant
+~$ whoami
+ Sri, a wanna be hacker exploring the networks.
 
-$ hostname
-github-profile
+~$ hostname
+srimant
 
-$ cat /etc/profile
+~$ ls -la /skills
+- Linux Bash
+- Cybersecurity
+- Web Development
+- Hacking Enthusiast
+- C, Python, javascript, HTML
 
-NAME="Srimant"
-LANGUAGES="Python, C, JavaScript"
-WEBSITE="https://srimantb.github.io/"
+
+~$ mailto srimantk666@gmail.com
+~$ cat /dev/github-stats
+<a herf="https://github-readme-stats.vercel.app/api?username=srimantb&show_icons=true&theme=radical">
 
