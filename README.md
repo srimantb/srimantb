@@ -6,10 +6,10 @@
 ~$ echo "Hello, World! Let's code some exploits."
 
 ~$ whoami
- Sri, a wanna be hacker exploring the networks.
+  Sri, a wanna be hacker exploring the networks.
 
 ~$ hostname
-srimant
+  srimant
 
 ~$ ls -la /skills
 - Linux Bash
@@ -17,9 +17,14 @@ srimant
 - Web Development
 - Hacking Enthusiast
 - C, Python, javascript, HTML
+$ cat /dev/github-stats
 ```
+![Srimant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimant&show_icons=true&theme=dracula)
+
 ## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://srimantb.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimant)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srimant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srii0/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/srimantk666)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srimant.404)
+
