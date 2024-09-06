@@ -19,10 +19,6 @@ srimant
 - C, Python, javascript, HTML
 
 ## 🌐 Connect with Me
-<iframe src="https://img.shields.io/badge/https://srimantb.github.io/-000000?style=for-the-badge&logo=Google-Chrome&logoColor=green"></iframe>
+<img src="https://img.shields.io/badge/https://srimantb.github.io/-000000?style=for-the-badge&logo=Google-Chrome&logoColor=green">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimant)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srimant)
-
-
-<iframe src="https://github-readme-stats.vercel.app/api?username=srimantb&show_icons=true&theme=radical"></iframe>
-
