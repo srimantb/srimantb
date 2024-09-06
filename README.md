@@ -4,3 +4,16 @@
 
 ```bash
 $ echo "Welcome to Srimant's GitHub Profile!"
+
+$ whoami
+Srimant
+
+$ hostname
+github-profile
+
+$ cat /etc/profile
+
+NAME="Srimant"
+LANGUAGES="Python, C, JavaScript"
+WEBSITE="https://srimantb.github.io/"
+
