@@ -1,8 +1,6 @@
 # Hi there, I'm Srimant 👋
 
-~$ echo "Welcome to my GitHub profile!"
+![Header]([https://your-image-url.com](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)) <!-- Optional: Add a cool terminal or personal header image -->
+
 ```bash
-~$ systemctl status
-✔️ Coding: Active
-✔️ Projects: Ongoing
-✔️ Caffeine: Always
+$ echo "Welcome to Srimant's GitHub Profile!"
