@@ -1,10 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Srimant 👋
 
+~$ echo "Welcome to my GitHub profile!"
 ```bash
-echo "Welcome to my hacking world!"
-🕶️ Hacker-Inspired Tools:
-🖥️ Cybersecurity Enthusiast
-💻 Penetration Tester
-🚀 Automation Lover
-🔒 Ethical Hacking
-📊 OSINT Researcher
+~$ systemctl status
+✔️ Coding: Active
+✔️ Projects: Ongoing
+✔️ Caffeine: Always
