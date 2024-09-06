@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @srimantb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm [Your Name] 👋
 
-<!---
-srimantb/srimantb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```bash
+echo "Welcome to my hacking world!"
+🕶️ Hacker-Inspired Tools:
+🖥️ Cybersecurity Enthusiast
+💻 Penetration Tester
+🚀 Automation Lover
+🔒 Ethical Hacking
+📊 OSINT Researcher
