@@ -1,4 +1,4 @@
-# Hi there, Hack the world! 👾
+# Hi there, Hack the world! <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 
 <img  align="right" width ="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"> <!-- Optional: Add a cool terminal or personal header image -->
 
